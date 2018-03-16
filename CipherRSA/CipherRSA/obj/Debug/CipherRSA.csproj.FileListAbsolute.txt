@@ -1,0 +1,6 @@
+D:\Szkoła\Arek\CipherRSA\CipherRSA\bin\Debug\CipherRSA.exe.config
+D:\Szkoła\Arek\CipherRSA\CipherRSA\bin\Debug\CipherRSA.exe
+D:\Szkoła\Arek\CipherRSA\CipherRSA\bin\Debug\CipherRSA.pdb
+D:\Szkoła\Arek\CipherRSA\CipherRSA\obj\Debug\CipherRSA.csprojResolveAssemblyReference.cache
+D:\Szkoła\Arek\CipherRSA\CipherRSA\obj\Debug\CipherRSA.exe
+D:\Szkoła\Arek\CipherRSA\CipherRSA\obj\Debug\CipherRSA.pdb
